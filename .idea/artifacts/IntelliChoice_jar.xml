@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntelliChoice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntelliChoice_jar</output-path>
+    <root id="archive" name="IntelliChoice.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/College/Semester 6/CEN 3073/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="IntelliChoice" />
+    </root>
+  </artifact>
+</component>
